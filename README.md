@@ -1,4 +1,4 @@
-#@FarmerAKH
+#FarmerAKH
 
 Hi! My name is Adam and I am a 2nd year computer science student.
 
